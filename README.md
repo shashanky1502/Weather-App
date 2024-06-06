@@ -1,7 +1,7 @@
 
 ## Weather App 🌦️
 
-Live site : 
+Live site : https://shashank-weather.netlify.app/
 
 This Weather App 🌤️ is a web application that allows users to get current weather information for a specific location. By entering the name of a city, users can retrieve real-time weather data including temperature, weather condition, humidity, and more. The app utilizes the OpenWeatherMap API to fetch weather data and provides a user-friendly interface to display the information.
 
