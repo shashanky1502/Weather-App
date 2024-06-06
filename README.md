@@ -1,7 +1,7 @@
 
 ## Weather App 🌦️
 
-Live site : https://weather-app-shashank.onrender.com/
+Live site : 
 
 This Weather App 🌤️ is a web application that allows users to get current weather information for a specific location. By entering the name of a city, users can retrieve real-time weather data including temperature, weather condition, humidity, and more. The app utilizes the OpenWeatherMap API to fetch weather data and provides a user-friendly interface to display the information.
 
@@ -16,7 +16,7 @@ This Weather App is built using React, Axios for API requests, and integrates wi
 
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/shashanky1502/React-Weather-App.git`
+1. Clone the repository
 2. Install dependencies: `npm install`
 
 ## Technologies
